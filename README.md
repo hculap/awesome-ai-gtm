@@ -30,6 +30,7 @@ The AI landscape is shifting from simple tools to sophisticated agents that can 
 - [🔧 Data & Infrastructure](#data--infrastructure)
   - [Customer Data Platforms & Reverse ETL](#customer-data-platforms--reverse-etl)
   - [AI Governance & Compliance](#ai-governance--compliance)
+- [Prefactor](https://prefactor.tech/) - AI agent runtime control plane with real-time observability, policy enforcement, and PII detection.
 - [🔗 Integration & Orchestration](#integration--orchestration)
 - [🏗️ Foundation - Core AI Models & Platforms (Bonus - More Technical)](#foundation---core-ai-models--platforms-bonus---more-technical)
   - [Large Language Models (LLMs)](#large-language-models-llms)
