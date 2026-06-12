@@ -96,6 +96,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 - [Hypotenuse.ai](https://www.hypotenuse.ai/) - Marketing copy generation with campaign creation
 - [Jasper.ai](https://www.jasper.ai/) - Versatile AI writing assistant with 50+ templates and brand voice
 - [Rytr](https://rytr.me/) - Fast AI writing assistant for short-form content with plagiarism checker
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ### Visual Content (Image & Video)
 
