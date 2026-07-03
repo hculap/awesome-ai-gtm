@@ -119,23 +119,38 @@ The critical bridge between marketing awareness and revenue generation. This sta
 
 ### Lead Prospecting & Enrichment
 
+- [6sense](https://6sense.com/) - AI revenue platform predicting in-market accounts from intent signals
 - [Apollo.io](https://www.apollo.io/) - AI-powered B2B prospecting and sales intelligence platform
-- [Artisan](https://www.artisan.co/) - End-to-end outreach with 300M+ B2B contacts and AI ghostwriting
-- [Breeze Prospecting Agent](https://breeze.ai/) - AI agent for automated lead prospecting and qualification
-- [Clay](https://clay.com/) - Automated prospecting with 50+ data sources and "claygents"
+- [Breeze Prospecting Agent](https://breeze.ai/) - Full-lifecycle prospecting agent with pay-per-lead pricing
+- [Clay](https://clay.com/) - Automated prospecting with 200+ data providers and "claygents"
 - [Cognism](https://www.cognism.com/) - AI-powered B2B data and sales intelligence platform
-- [Seamless.ai](https://seamless.ai/) - Real-time B2B lead search with 1.8B+ emails and buyer intent signals
+- [Exa Websets](https://exa.ai/websets) - Agentic web search turning a plain-English ICP into verified lists
+- [Landbase](https://www.landbase.com/) - Agentic GTM platform (GTM-1 Omni) for autonomous multichannel outbound
+- [Lusha](https://www.lusha.com/) - Verified B2B contact data (300M+) with AI Flex Search and buying signals
+- [RocketReach](https://rocketreach.co/) - Contact intelligence: 700M+ profiles, verified emails/phones, AI lists
+- [Rox](https://rox.com/) - Agentic revenue platform with AI-agent swarms to prospect, qualify, manage deals
+- [Seamless](https://seamless.ai/) - Unified revenue platform (formerly Seamless.ai) with real-time B2B data
+- [ZoomInfo](https://www.zoominfo.com/) - AI-native GTM intelligence with 500M+ contacts and buyer-intent signals
 
 ### Email & Multi-Channel Outreach
 
+- [11x](https://www.11x.ai/) - Digital workers Alice (AI SDR) and Julian (AI phone rep) for multichannel outreach
+- [AiSDR](https://aisdr.com/) - Full-cycle AI sales agent for omnichannel email, LinkedIn, and text outreach
+- [Amplemarket](https://www.amplemarket.com/) - AI sales engagement with the Duo copilot for signal-based outreach
+- [Artisan (Ava)](https://www.artisan.co/) - Autonomous AI BDR "Ava" for end-to-end email and social outbound
 - [GMass AI](https://www.gmass.co/) - AI-powered email marketing and outreach automation
 - [Instantly.ai](https://instantly.ai/) - Cold email at scale with unlimited inboxes and AI management
 - [Lavender](https://www.lavender.ai/) - AI email assistant for writing and optimizing cold emails
 - [lemlist](https://www.lemlist.com/) - Hyper-personalized outreach with dynamic images/videos
 - [Mailshake](https://mailshake.com/) - All-in-one outreach with SHAKEspeare AI writer
-- [Outreach.io](https://www.outreach.io/) - AI Revenue Workflow Platform with Smart Email Assist
+- [Outreach.ai](https://www.outreach.ai/) - Agentic AI revenue platform with Omni agent and Agent Studio
+- [Regie.ai](https://www.regie.ai/) - AI sales engagement with Auto-Pilot agents for email, phone, and LinkedIn
 - [Reply.io](https://reply.io/) - Multi-channel sequences with AI variables and AI SDR
-- [Salesloft Rhythm](https://salesloft.com/) - AI-powered sales engagement and coaching platform
+- [Salesforge](https://www.salesforge.ai/) - Cold email and LinkedIn outreach via Agent Frank, an autonomous AI SDR
+- [Saleshandy](https://www.saleshandy.com/) - All-in-one AI outbound with lead finder, unlimited inboxes, copilot
+- [Salesloft Rhythm](https://salesloft.com/) - AI sales engagement engine, now part of combined Clari + Salesloft
+- [Smartlead](https://www.smartlead.ai/) - Cold email at scale with unlimited mailboxes, AI warmup, research agents
+- [Unify](https://www.unifygtm.com/) - AI-native warm outbound turning buying signals into email, phone, social
 
 ### Meeting & Scheduling
 
@@ -163,12 +178,17 @@ The revenue optimization and customer lifecycle management stage. This final pha
 
 ### Customer Service & Support
 
-- [Canvas](https://canvas.com/) - Proactive customer support and success automation platform
+- [Ada](https://www.ada.cx/) - Enterprise AI customer service platform with a Reasoning Engine across channels
 - [Chatbase](https://www.chatbase.co/) - AI support agents with real-time business data integration
 - [ChatBot.com](https://www.chatbot.com/) - AI chatbot with drag-and-drop Visual Builder
-- [Fin.ai](https://fin.ai/) - #1 AI customer service agent with 62% resolution rate
-- [Intercom Fin](https://www.intercom.com/fin) - AI customer service agent integrated with Intercom platform
-- [SwiftCX](https://swiftcx.ai/) - AI Agent and Copilot hybrid approach for customer experience
+- [Decagon](https://decagon.ai/) - AI concierge deploying autonomous support agents across chat, email, voice
+- [Fin.ai](https://fin.ai/) - AI customer service agent (formerly Intercom) resolving ~76% across chat, email, voice
+- [Lorikeet](https://www.lorikeetcx.ai/) - AI concierge resolving complex, multi-step tickets for regulated industries
+- [Maven AGI](https://www.mavenagi.com/) - Enterprise AI agents automating support across chat, email, and voice
+- [Parloa](https://www.parloa.com/) - Agentic AI automating contact-center conversations across voice and digital
+- [Salesforce Agentforce](https://www.salesforce.com/agentforce/) - CRM-native agentic AI service agents, pay-per-resolution
+- [Sierra](https://sierra.ai/) - Enterprise AI agents for autonomous customer service across chat, voice, email
+- [SwiftCX](https://www.swiftcx.com/) - AI Agent and Copilot hybrid approach for customer experience
 - [Zendesk AI](https://www.zendesk.com/ai/) - AI-powered customer service and support automation
 
 ## 🚀 Growth & Optimization

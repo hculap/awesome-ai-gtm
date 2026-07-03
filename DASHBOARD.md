@@ -109,14 +109,14 @@
 
 > Derived directly from `README.md` by `scripts/update_dashboard.py`. Do not edit by hand.
 
-- **Total tools listed**: 118
+- **Total tools listed**: 138
 
 | GTM Stage | Tools |
 |-----------|-------|
 | 🧠 Genesis Stage - Ideation & Strategy | 17 |
 | 📈 Attraction Stage - Marketing & Content | 21 |
-| 🤝 Conversion Stage - Sales & Outreach | 20 |
-| 💼 Closing Stage - Pipeline & Support | 11 |
+| 🤝 Conversion Stage - Sales & Outreach | 35 |
+| 💼 Closing Stage - Pipeline & Support | 16 |
 | 🚀 Growth & Optimization | 15 |
 | 🔧 Data & Infrastructure | 10 |
 | 🏗️ Foundation - Core AI Models & Platforms (Bonus - More Technical) | 24 |
