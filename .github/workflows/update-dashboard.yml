@@ -1,0 +1,40 @@
+name: Update Dashboard Stats
+
+# Keeps DASHBOARD.md's auto-generated stats block in sync with README.md.
+# Runs weekly and whenever README.md changes on main.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+  push:
+    branches: [main]
+    paths: ["README.md"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate dashboard stats
+        run: python3 scripts/update_dashboard.py
+
+      - name: Commit changes if any
+        run: |
+          if [[ -n "$(git status --porcelain DASHBOARD.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add DASHBOARD.md
+            git commit -m "chore: auto-update dashboard stats"
+            git push
+          else
+            echo "No dashboard changes."
+          fi

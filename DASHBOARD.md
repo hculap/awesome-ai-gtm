@@ -101,3 +101,25 @@
 
 *Last updated: [Current Date]*
 *Data source: Awesome AI GTM Stack* 
+
+---
+
+<!-- AUTOGEN:STATS START -->
+## Auto-generated Stats 🤖
+
+> Derived directly from `README.md` by `scripts/update_dashboard.py`. Do not edit by hand.
+
+- **Total tools listed**: 118
+
+| GTM Stage | Tools |
+|-----------|-------|
+| 🧠 Genesis Stage - Ideation & Strategy | 17 |
+| 📈 Attraction Stage - Marketing & Content | 21 |
+| 🤝 Conversion Stage - Sales & Outreach | 20 |
+| 💼 Closing Stage - Pipeline & Support | 11 |
+| 🚀 Growth & Optimization | 15 |
+| 🔧 Data & Infrastructure | 10 |
+| 🏗️ Foundation - Core AI Models & Platforms (Bonus - More Technical) | 24 |
+
+*Last updated: 2026-07-03*
+<!-- AUTOGEN:STATS END -->

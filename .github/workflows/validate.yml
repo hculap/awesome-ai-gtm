@@ -1,0 +1,20 @@
+name: Validate
+
+# Lightweight PR checks. Fails if the dashboard stats block is out of sync
+# with README.md, so contributors regenerate it before merge.
+
+on:
+  pull_request:
+    paths: ["README.md", "DASHBOARD.md", "scripts/**"]
+  workflow_dispatch: {}
+
+jobs:
+  dashboard-in-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check dashboard is in sync with README
+        run: python3 scripts/update_dashboard.py --check
