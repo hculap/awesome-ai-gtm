@@ -84,6 +84,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 - [AIOSEO](https://aioseo.com/) - WordPress SEO plugin with AI Writing Assistant
 - [Brandwell](https://brandwell.ai/) - AI-powered brand voice and content optimization platform
 - [Frase.io](https://frase.io/) - AI-powered content workstation with SERP analysis and optimization
+- [Mentioned](https://mentioned.to/) - Managed Reddit growth service for SEO and AI search visibility, publishing native posts and comments in ranking threads
 - [Notion AI](https://www.notion.so/product/ai) - AI-powered workspace with content generation and organization
 - [Perplexity Pages](https://www.perplexity.ai/pages) - AI-powered content creation and publishing platform
 - [Search Atlas (OTTO SEO)](https://searchatlas.com/) - AI SEO automation platform with automated fixes
