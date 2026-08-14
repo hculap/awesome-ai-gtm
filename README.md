@@ -55,6 +55,7 @@ The foundational stage where entrepreneurial vision meets market reality. This c
 ### Market Research & Intelligence
 
 - [Brandwatch](https://www.brandwatch.com/) - Social listening platform for brand monitoring and sentiment analysis
+- [Calven](https://calven.ai/) - Product marketing agents for competitive intelligence, win/loss, positioning, and messaging
 - [Crunchbase](https://www.crunchbase.com/) - AI-powered company and startup database with advanced search
 - [Glimpse](https://meetglimpse.com/) - Trend discovery and predictive analytics tool
 - [MyMap.AI Market Analysis](https://www.mymap.ai/market-analysis-tool) - Generate comprehensive market analysis from single topic input
