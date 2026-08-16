@@ -104,6 +104,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 - [Google Veo](https://gemini.google.com/) - Advanced text-to-video with native audio generation (latest version)
 - [InVideo AI](https://invideo.io/ai/) - Complete video creation from text prompts
 - [Lumen5](https://lumen5.com/) - Transform blog posts into engaging social videos
+- [videos.social](https://videos.social/?utm_source=hculap-awesome-ai-gtm&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos
 - [Midjourney](https://www.midjourney.com/) - Advanced AI image generation with enhanced quality and control (latest version)
 - [Runway](https://runwayml.com/) - AI video generation and editing platform with advanced capabilities (latest version)
 - [Synthesia](https://www.synthesia.io/) - Professional AI avatar videos in 140+ languages
