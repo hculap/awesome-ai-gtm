@@ -77,30 +77,16 @@
 
 ## Quick Stats 📈
 
-- **Total Tools**: 100+
-- **Free Tools**: 15+
-- **Agent Tools**: 40+
-- **Integration Tools**: 25+
-- **Analytics Tools**: 20+
+The tables above are a hand-picked subset. For counts, see the auto-generated block at the bottom of
+this file: it is derived from `README.md` by `scripts/update_dashboard.py` on every push and every
+Monday, so it cannot drift.
 
-## Pricing Distribution 💰
+Pricing and category percentages used to sit here. They were typed by hand and never computed from
+anything, because `README.md` carries no machine-readable pricing or category tags. They have been
+removed rather than guessed. If you want them back, the honest route is to add tags to the entries
+first and then derive the numbers.
 
-- 🆓 **Free**: 15%
-- 🎯 **Freemium**: 25%
-- 💲 **Paid**: 50%
-- 🏢 **Enterprise**: 10%
-
-## Category Distribution 🏷️
-
-- 🛰 **Agent**: 40%
-- 🔌 **Integration**: 25%
-- 📊 **Analytics**: 20%
-- 🧠 **LLM**: 15%
-
----
-
-*Last updated: [Current Date]*
-*Data source: Awesome AI GTM Stack* 
+*Data source: Awesome AI GTM Stack*
 
 ---
 
@@ -109,7 +95,7 @@
 
 > Derived directly from `README.md` by `scripts/update_dashboard.py`. Do not edit by hand.
 
-- **Total tools listed**: 138
+- **Total tools listed**: 144
 
 | GTM Stage | Tools |
 |-----------|-------|
@@ -119,6 +105,7 @@
 | 💼 Closing Stage - Pipeline & Support | 16 |
 | 🚀 Growth & Optimization | 15 |
 | 🔧 Data & Infrastructure | 10 |
+| 🔗 Integration & Orchestration | 6 |
 | 🏗️ Foundation - Core AI Models & Platforms (Bonus - More Technical) | 24 |
 
 *Last updated: 2026-08-24*
