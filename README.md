@@ -265,6 +265,7 @@ The connective tissue that transforms individual AI agents into a unified, auton
 ### Workflow Automation & Agent Orchestration
 
 - [Activepieces](https://www.activepieces.com/) - Open-source automation platform with AI agents and MCP support
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and AI-agent skills for cross-channel social content planning, scheduling, and publishing
 - [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes and self-hosting
 - [Pipedream](https://pipedream.com/) - Developer-first integration platform with code steps and AI workflow building
 - [Relay.app](https://www.relay.app/) - AI automation with human-in-the-loop approval steps built in
