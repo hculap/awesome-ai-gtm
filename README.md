@@ -266,6 +266,7 @@ The connective tissue that transforms individual AI agents into a unified, auton
 
 - [Activepieces](https://www.activepieces.com/) - Open-source automation platform with AI agents and MCP support
 - [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes and self-hosting
+- [NotFair](https://notfair.co/) - AI agents audit Google, Meta, and X Ads with approval-gated account changes
 - [Pipedream](https://pipedream.com/) - Developer-first integration platform with code steps and AI workflow building
 - [Relay.app](https://www.relay.app/) - AI automation with human-in-the-loop approval steps built in
 - [Tray.ai](https://tray.ai/) - Enterprise integration platform with an agent builder on top
