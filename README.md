@@ -167,6 +167,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 - [Reclaim.ai](https://reclaim.ai/) - AI calendar copilot for intelligent scheduling and time management
 - [SchedulerAI](https://www.scheduler.ai/) - All-in-one AI meeting assistant with conversational booking
 - [Sidekick AI](https://sidekick.ai/) - AI-powered scheduling and calendar optimization platform
+- [Speak AI](https://speakai.co/) - Conversation intelligence scoring sales calls and meetings against your own methodology in 100+ languages, human-reviewed
 
 ## 💼 Closing Stage - Pipeline & Support
 
