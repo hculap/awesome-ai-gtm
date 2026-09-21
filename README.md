@@ -196,6 +196,7 @@ The revenue optimization and customer lifecycle management stage. This final pha
 - [Salesforce Agentforce](https://www.salesforce.com/agentforce/) - CRM-native agentic AI service agents, pay-per-resolution
 - [Sierra](https://sierra.ai/) - Enterprise AI agents for autonomous customer service across chat, voice, email
 - [SwiftCX](https://www.swiftcx.com/) - AI Agent and Copilot hybrid approach for customer experience
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice agents for 24/7 call answering, booking, and lead capture
 - [Zendesk AI](https://www.zendesk.com/ai/) - AI-powered customer service and support automation
 
 ## 🚀 Growth & Optimization
