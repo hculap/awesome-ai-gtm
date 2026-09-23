@@ -186,6 +186,7 @@ The revenue optimization and customer lifecycle management stage. This final pha
 ### Customer Service & Support
 
 - [Ada](https://www.ada.cx/) - Enterprise AI customer service platform with a Reasoning Engine across channels
+- [Asyntai](https://asyntai.com/) - AI chat agent that answers website visitors from your own content and captures leads
 - [Chatbase](https://www.chatbase.co/) - AI support agents with real-time business data integration
 - [ChatBot.com](https://www.chatbot.com/) - AI chatbot with drag-and-drop Visual Builder
 - [Decagon](https://decagon.ai/) - AI concierge deploying autonomous support agents across chat, email, voice
