@@ -336,7 +336,7 @@ We're building the definitive resource for AI-powered GTM strategies. Join our c
 
 ### 📈 Community Stats
 
-- **144 AI tools** curated and organized
+- **Curated AI tools** organized by GTM workflow — [current counts](DASHBOARD.md)
 - **5 funnel stages** plus a data layer, an orchestration layer and a foundation layer
 - **Open source** and community-driven
 - **Regular updates** with latest AI innovations
