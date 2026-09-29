@@ -415,4 +415,4 @@ More writing on building agents that survive contact with production:
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This work is dedicated to the public domain. 
+This work is dedicated to the public domain.
