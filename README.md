@@ -63,6 +63,7 @@ The foundational stage where entrepreneurial vision meets market reality. This c
 - [Calven](https://calven.ai/) - Product marketing agents for competitive intelligence, win/loss, positioning, and messaging
 - [Crunchbase](https://www.crunchbase.com/) - AI-powered company and startup database with advanced search
 - [Glimpse](https://meetglimpse.com/) - Trend discovery and predictive analytics tool
+- [Inteldo](https://inteldo.com/) - Business research across connected data and external sources using specialist agents
 - [MyMap.AI Market Analysis](https://www.mymap.ai/market-analysis-tool) - Generate comprehensive market analysis from single topic input
 - [Quantilope](https://www.quantilope.com/) - AI-native consumer research platform with quinn AI co-pilot
 - [Sembly AI (Semblian)](https://www.sembly.ai/) - AI-driven market research and competitive intelligence
@@ -217,11 +218,12 @@ The continuous improvement and optimization stage that transforms initial custom
 
 ### Revenue Intelligence & Sales Enablement
 
-- [Gong](https://www.gong.io/) - Revenue intelligence platform with AI conversation analysis
 - [Chorus](https://chorus.ai/) - AI-powered conversation intelligence for sales teams
-- [Scratchpad](https://scratchpad.com/) - AI-powered sales workspace with deal intelligence
+- [Gong](https://www.gong.io/) - Revenue intelligence platform with AI conversation analysis
 - [InsightSquared](https://www.insightsquared.com/) - Revenue analytics and forecasting with AI insights
 - [Salesloft](https://salesloft.com/) - Sales engagement platform with AI-powered coaching
+- [Scratchpad](https://scratchpad.com/) - AI-powered sales workspace with deal intelligence
+- [Speak AI](https://speakai.co/) - AI conversation intelligence with custom sales call scoring and coaching
 
 ### Experimentation & Personalization
 
@@ -266,7 +268,9 @@ The connective tissue that transforms individual AI agents into a unified, auton
 ### Workflow Automation & Agent Orchestration
 
 - [Activepieces](https://www.activepieces.com/) - Open-source automation platform with AI agents and MCP support
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and AI-agent skills for cross-channel social content planning, scheduling, and publishing
 - [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes and self-hosting
+- [NotFair](https://notfair.co/) - AI agents audit Google, Meta, and X Ads with approval-gated account changes
 - [Pipedream](https://pipedream.com/) - Developer-first integration platform with code steps and AI workflow building
 - [Relay.app](https://www.relay.app/) - AI automation with human-in-the-loop approval steps built in
 - [Tray.ai](https://tray.ai/) - Enterprise integration platform with an agent builder on top
@@ -336,7 +340,7 @@ We're building the definitive resource for AI-powered GTM strategies. Join our c
 
 ### 📈 Community Stats
 
-- **144 AI tools** curated and organized
+- **Curated AI tools** organized by GTM workflow — [current counts](DASHBOARD.md)
 - **5 funnel stages** plus a data layer, an orchestration layer and a foundation layer
 - **Open source** and community-driven
 - **Regular updates** with latest AI innovations
