@@ -108,5 +108,5 @@ first and then derive the numbers.
 | 🔗 Integration & Orchestration | 6 |
 | 🏗️ Foundation - Core AI Models & Platforms (Bonus - More Technical) | 24 |
 
-*Last updated: 2026-08-31*
+*Last updated: 2026-09-28*
 <!-- AUTOGEN:STATS END -->
