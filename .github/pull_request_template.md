@@ -13,7 +13,7 @@
 **URL**: [https://example.com]
 **Category**: [Foundation/Genesis/Attraction/Conversion/Closing/Growth/Data]
 **Pricing**: [Free/Freemium/Paid/Enterprise]
-**Tags**: [e.g., 🛰📈💲]
+**Affiliation**: [Your relationship to the product, if any]
 
 ### 📝 Description
 Brief description of what this PR adds or changes:
@@ -21,7 +21,7 @@ Brief description of what this PR adds or changes:
 ### ✅ Checklist
 - [ ] Tool has been tested (at least free tier)
 - [ ] Description follows format guidelines (≤ 100 characters)
-- [ ] Appropriate tags have been added
+- [ ] Dashboard regenerated with `python3 scripts/update_dashboard.py` and `--check` passes
 - [ ] Tool is placed in correct category
 - [ ] No duplicate entries exist
 - [ ] Links are functional

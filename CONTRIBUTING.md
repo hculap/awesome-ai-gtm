@@ -7,9 +7,9 @@ Thank you for considering contributing to the Awesome AI GTM Stack! Your contrib
 ### Adding a New AI Agent/Tool
 
 1. **Fork the repository** and create a new branch for your contribution
-2. **Follow the format**: `- [Tool Name](https://example.com/) 🏷️ - Brief description of what it does`
+2. **Follow the format**: `- [Tool Name](https://example.com/) - Brief description of what it does`
 3. **Place in the correct category** based on the GTM funnel stage
-4. **Add appropriate tags** using our tagging system (see Tag Legend in README)
+4. **Use the canonical URL** and keep entries alphabetical within their category
 5. **Ensure quality**: Only suggest tools that are:
    - Actually AI-powered (not just regular software)
    - Relevant to GTM/sales/marketing workflows
@@ -22,7 +22,7 @@ Thank you for considering contributing to the Awesome AI GTM Stack! Your contrib
 - **Feature updates**: Add new AI features that enhance the tool's capabilities
 - **Broken links**: Fix any non-functional URLs
 - **Better descriptions**: Improve clarity and accuracy of descriptions
-- **Tag updates**: Add or update tags to reflect current capabilities
+- **Category corrections**: Place tools where their primary GTM workflow fits best
 - **Workflow examples**: Add new integration examples or use cases
 
 ### Guidelines for Descriptions
@@ -32,7 +32,7 @@ Thank you for considering contributing to the Awesome AI GTM Stack! Your contrib
 - Mention key differentiators and unique features
 - Use consistent formatting and tone
 - Avoid marketing language - be factual and helpful
-- Include relevant tags for quick identification
+- Describe released, documented capabilities and avoid unsupported performance claims
 - Highlight GTM-specific use cases when applicable
 
 ## Quality Standards
@@ -58,12 +58,23 @@ Thank you for considering contributing to the Awesome AI GTM Stack! Your contrib
 1. **Check for duplicates** - Make sure the tool isn't already listed
 2. **Test the tool** - Ensure it works as described (at least the free tier)
 3. **Write a clear description** - Follow the format of existing entries
-4. **Add appropriate tags** - Use the tagging system from the README
+4. **Regenerate the dashboard** - Run `python3 scripts/update_dashboard.py` and include `DASHBOARD.md` in your PR
 5. **Submit a pull request** with:
    - Clear title describing what you're adding/changing
    - Brief explanation of why this tool should be included
    - Evidence of the tool's effectiveness (if available)
    - Any workflow examples or integration use cases
+   - Your affiliation with the product, if any
+
+Before submitting, run:
+
+```sh
+python3 scripts/update_dashboard.py
+python3 scripts/update_dashboard.py --check
+git diff --check
+```
+
+The dashboard check runs in CI. Keep the generated statistics consistent with your README changes.
 
 ## Categories
 

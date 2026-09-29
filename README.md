@@ -193,6 +193,7 @@ The revenue optimization and customer lifecycle management stage. This final pha
 - [ChatBot.com](https://www.chatbot.com/) - AI chatbot with drag-and-drop Visual Builder
 - [Decagon](https://decagon.ai/) - AI concierge deploying autonomous support agents across chat, email, voice
 - [Fin.ai](https://fin.ai/) - AI customer service agent (formerly Intercom) resolving ~76% across chat, email, voice
+- [Instant Reply](https://www.instantreply.co/) - AI replies for Instagram, WhatsApp, and Messenger with human review and CRM handoff
 - [Lorikeet](https://www.lorikeetcx.ai/) - AI concierge resolving complex, multi-step tickets for regulated industries
 - [Maven AGI](https://www.mavenagi.com/) - Enterprise AI agents automating support across chat, email, and voice
 - [Parloa](https://www.parloa.com/) - Agentic AI automating contact-center conversations across voice and digital
@@ -375,7 +376,7 @@ Please read our [contributing guidelines](CONTRIBUTING.md) for detailed informat
 
 - **Quality standards** for tool inclusion
 - **Formatting requirements** for consistency
-- **Tagging system** for easy categorization
+- **Validation steps** to keep dashboard statistics current
 - **Submission process** for pull requests
 
 ### 🎯 Getting Started
