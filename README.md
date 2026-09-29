@@ -167,7 +167,6 @@ The critical bridge between marketing awareness and revenue generation. This sta
 - [Reclaim.ai](https://reclaim.ai/) - AI calendar copilot for intelligent scheduling and time management
 - [SchedulerAI](https://www.scheduler.ai/) - All-in-one AI meeting assistant with conversational booking
 - [Sidekick AI](https://sidekick.ai/) - AI-powered scheduling and calendar optimization platform
-- [Speak AI](https://speakai.co/) - Conversation intelligence scoring sales calls and meetings against your own methodology in 100+ languages, human-reviewed
 
 ## 💼 Closing Stage - Pipeline & Support
 
@@ -217,11 +216,12 @@ The continuous improvement and optimization stage that transforms initial custom
 
 ### Revenue Intelligence & Sales Enablement
 
-- [Gong](https://www.gong.io/) - Revenue intelligence platform with AI conversation analysis
 - [Chorus](https://chorus.ai/) - AI-powered conversation intelligence for sales teams
-- [Scratchpad](https://scratchpad.com/) - AI-powered sales workspace with deal intelligence
+- [Gong](https://www.gong.io/) - Revenue intelligence platform with AI conversation analysis
 - [InsightSquared](https://www.insightsquared.com/) - Revenue analytics and forecasting with AI insights
 - [Salesloft](https://salesloft.com/) - Sales engagement platform with AI-powered coaching
+- [Scratchpad](https://scratchpad.com/) - AI-powered sales workspace with deal intelligence
+- [Speak AI](https://speakai.co/) - AI conversation intelligence with custom sales call scoring and coaching
 
 ### Experimentation & Personalization
 
