@@ -95,7 +95,7 @@ first and then derive the numbers.
 
 > Derived directly from `README.md` by `scripts/update_dashboard.py`. Do not edit by hand.
 
-- **Total tools listed**: 147
+- **Total tools listed**: 149
 
 | GTM Stage | Tools |
 |-----------|-------|
@@ -105,8 +105,8 @@ first and then derive the numbers.
 | 💼 Closing Stage - Pipeline & Support | 16 |
 | 🚀 Growth & Optimization | 15 |
 | 🔧 Data & Infrastructure | 10 |
-| 🔗 Integration & Orchestration | 6 |
+| 🔗 Integration & Orchestration | 8 |
 | 🏗️ Foundation - Core AI Models & Platforms (Bonus - More Technical) | 24 |
 
-*Last updated: 2026-08-31*
+*Last updated: 2026-09-29*
 <!-- AUTOGEN:STATS END -->

@@ -266,7 +266,9 @@ The connective tissue that transforms individual AI agents into a unified, auton
 ### Workflow Automation & Agent Orchestration
 
 - [Activepieces](https://www.activepieces.com/) - Open-source automation platform with AI agents and MCP support
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and AI-agent skills for cross-channel social content planning, scheduling, and publishing
 - [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes and self-hosting
+- [NotFair](https://notfair.co/) - AI agents audit Google, Meta, and X Ads with approval-gated account changes
 - [Pipedream](https://pipedream.com/) - Developer-first integration platform with code steps and AI workflow building
 - [Relay.app](https://www.relay.app/) - AI automation with human-in-the-loop approval steps built in
 - [Tray.ai](https://tray.ai/) - Enterprise integration platform with an agent builder on top
@@ -336,7 +338,7 @@ We're building the definitive resource for AI-powered GTM strategies. Join our c
 
 ### 📈 Community Stats
 
-- **144 AI tools** curated and organized
+- **Curated AI tools** organized by GTM workflow — [current counts](DASHBOARD.md)
 - **5 funnel stages** plus a data layer, an orchestration layer and a foundation layer
 - **Open source** and community-driven
 - **Regular updates** with latest AI innovations
