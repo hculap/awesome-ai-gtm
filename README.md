@@ -128,6 +128,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 ### Lead Prospecting & Enrichment
 
 - [6sense](https://6sense.com/) - AI revenue platform predicting in-market accounts from intent signals
+- [aiFetchly](https://www.aifetchly.com) - Open-source desktop AI agent for lead generation, outreach and scheduled workflows
 - [Apollo.io](https://www.apollo.io/) - AI-powered B2B prospecting and sales intelligence platform
 - [Breeze Prospecting Agent](https://breeze.ai/) - Full-lifecycle prospecting agent with pay-per-lead pricing
 - [Clay](https://clay.com/) - Automated prospecting with 200+ data providers and "claygents"
