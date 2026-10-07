@@ -113,6 +113,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 - [Lumen5](https://lumen5.com/) - Transform blog posts into engaging social videos
 - [Midjourney](https://www.midjourney.com/) - Advanced AI image generation with enhanced quality and control (latest version)
 - [Runway](https://runwayml.com/) - AI video generation and editing platform with advanced capabilities (latest version)
+- [ScaleReach](https://www.scalereach.ai/) - Turns long videos into 9:16 clips with AI captions, face-tracking crop and virality scoring
 - [Synthesia](https://www.synthesia.io/) - Professional AI avatar videos in 140+ languages
 - [videos.social](https://videos.social/) - Turn blogs, PDFs, and prompts into editable faceless videos
 - [Vyond](https://www.vyond.com/) - AI animated video creation for business (Vyond Go)
