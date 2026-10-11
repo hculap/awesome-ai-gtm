@@ -110,6 +110,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 - [Canva AI](https://www.canva.com/) - Design platform with Magic Write and image generators
 - [Google Veo](https://gemini.google.com/) - Advanced text-to-video with native audio generation (latest version)
 - [InVideo AI](https://invideo.io/ai/) - Complete video creation from text prompts
+- [Kamply](https://kamplyapp.com/) - Marketing crew turns a brief into branded posts and reels; paid Mac app on your Claude Code or Codex
 - [Lumen5](https://lumen5.com/) - Transform blog posts into engaging social videos
 - [Midjourney](https://www.midjourney.com/) - Advanced AI image generation with enhanced quality and control (latest version)
 - [Runway](https://runwayml.com/) - AI video generation and editing platform with advanced capabilities (latest version)
