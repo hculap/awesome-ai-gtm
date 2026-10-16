@@ -89,6 +89,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 ### SEO & Content Strategy
 
 - [AIOSEO](https://aioseo.com/) - WordPress SEO plugin with AI Writing Assistant
+- [AltoRank](https://altorank.co/) - Open-source SEO content tool: keyword research and drafts into a review queue
 - [Brandwell](https://brandwell.ai/) - AI-powered brand voice and content optimization platform
 - [Frase.io](https://frase.io/) - AI-powered content workstation with SERP analysis and optimization
 - [Notion AI](https://www.notion.so/product/ai) - AI-powered workspace with content generation and organization
