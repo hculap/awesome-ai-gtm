@@ -136,6 +136,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 - [Exa Websets](https://exa.ai/websets) - Agentic web search turning a plain-English ICP into verified lists
 - [Landbase](https://www.landbase.com/) - Agentic GTM platform (GTM-1 Omni) for autonomous multichannel outbound
 - [Lusha](https://www.lusha.com/) - Verified B2B contact data (300M+) with AI Flex Search and buying signals
+- [RestoSignals](https://restosignals.com/) - Agent-ready MCP server and API: US restaurants and bars 1-6 months pre-opening, with owner contact
 - [RocketReach](https://rocketreach.co/) - Contact intelligence: 700M+ profiles, verified emails/phones, AI lists
 - [Rox](https://rox.com/) - Agentic revenue platform with AI-agent swarms to prospect, qualify, manage deals
 - [Seamless](https://seamless.ai/) - Unified revenue platform (formerly Seamless.ai) with real-time B2B data
