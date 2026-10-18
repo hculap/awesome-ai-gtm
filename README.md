@@ -271,6 +271,7 @@ The connective tissue that transforms individual AI agents into a unified, auton
 ### Workflow Automation & Agent Orchestration
 
 - [Activepieces](https://www.activepieces.com/) - Open-source automation platform with AI agents and MCP support
+- [Aident Loadout](https://aident.ai/) - MCP layer connecting AI agents to your apps and 400+ Skills for research, outreach and content
 - [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and AI-agent skills for cross-channel social content planning, scheduling, and publishing
 - [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes and self-hosting
 - [NotFair](https://notfair.co/) - AI agents audit Google, Meta, and X Ads with approval-gated account changes
