@@ -112,6 +112,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 - [InVideo AI](https://invideo.io/ai/) - Complete video creation from text prompts
 - [Lumen5](https://lumen5.com/) - Transform blog posts into engaging social videos
 - [Midjourney](https://www.midjourney.com/) - Advanced AI image generation with enhanced quality and control (latest version)
+- [pitchboom.io](https://pitchboom.io) - Turns a product URL or brief into voiced motion-design video ads for every feed
 - [Runway](https://runwayml.com/) - AI video generation and editing platform with advanced capabilities (latest version)
 - [Synthesia](https://www.synthesia.io/) - Professional AI avatar videos in 140+ languages
 - [videos.social](https://videos.social/) - Turn blogs, PDFs, and prompts into editable faceless videos
