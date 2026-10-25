@@ -107,6 +107,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 ### Visual Content (Image & Video)
 
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI-powered creative tools for image generation and editing
+- [APPLORE](https://applore.app/ai-app-icon-generator) - AI app icon generator plus a free App Store screenshot maker for app launches
 - [Canva AI](https://www.canva.com/) - Design platform with Magic Write and image generators
 - [Google Veo](https://gemini.google.com/) - Advanced text-to-video with native audio generation (latest version)
 - [InVideo AI](https://invideo.io/ai/) - Complete video creation from text prompts
