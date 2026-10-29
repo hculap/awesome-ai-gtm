@@ -144,6 +144,8 @@ The critical bridge between marketing awareness and revenue generation. This sta
 ### Email & Multi-Channel Outreach
 
 - [11x](https://www.11x.ai/) - Digital workers Alice (AI SDR) and Julian (AI phone rep) for multichannel outreach
+- [AI Sales Agents Guide](https://aisalesagentsguide.com) - Compares AI SDR and sales-agent tools on who approves a send, with each tool's price from its own pricing page and the open-source rule Kortix keeps in the repo
+
 - [AiSDR](https://aisdr.com/) - Full-cycle AI sales agent for omnichannel email, LinkedIn, and text outreach
 - [Amplemarket](https://www.amplemarket.com/) - AI sales engagement with the Duo copilot for signal-based outreach
 - [Artisan (Ava)](https://www.artisan.co/) - Autonomous AI BDR "Ava" for end-to-end email and social outbound
