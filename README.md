@@ -197,6 +197,7 @@ The revenue optimization and customer lifecycle management stage. This final pha
 - [Lorikeet](https://www.lorikeetcx.ai/) - AI concierge resolving complex, multi-step tickets for regulated industries
 - [Maven AGI](https://www.mavenagi.com/) - Enterprise AI agents automating support across chat, email, and voice
 - [Parloa](https://www.parloa.com/) - Agentic AI automating contact-center conversations across voice and digital
+- [Pipp](https://pipp.so/) - Shared support inbox for small teams with Pipp AI built in; your own agent can run it via MCP
 - [Salesforce Agentforce](https://www.salesforce.com/agentforce/) - CRM-native agentic AI service agents, pay-per-resolution
 - [Sierra](https://sierra.ai/) - Enterprise AI agents for autonomous customer service across chat, voice, email
 - [SwiftCX](https://www.swiftcx.com/) - AI Agent and Copilot hybrid approach for customer experience
