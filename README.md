@@ -69,6 +69,7 @@ The foundational stage where entrepreneurial vision meets market reality. This c
 - [Sembly AI (Semblian)](https://www.sembly.ai/) - AI-driven market research and competitive intelligence
 - [SparkToro](https://sparktoro.com/) - Audience research tool with AI-powered insights and recommendations
 - [Statista](https://www.statista.com/) - AI Copilot for market data and statistical insights
+- [Vaneform](https://vaneform.com/) - Free website traffic checker with trends, source mix, leaderboards, and MCP for assistants
 
 ### Business & Brand Identity
 
