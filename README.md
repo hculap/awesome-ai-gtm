@@ -134,6 +134,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 - [Cognism](https://www.cognism.com/) - AI-powered B2B data and sales intelligence platform
 - [Derrick](https://derrick-app.com/) - B2B enrichment agents call over MCP, plus Google Sheets and REST API
 - [Exa Websets](https://exa.ai/websets) - Agentic web search turning a plain-English ICP into verified lists
+- [Firecrawl](https://www.firecrawl.dev/) - Search and scrape API for AI agents, with company and people data from Apollo, FullEnrich and more
 - [Landbase](https://www.landbase.com/) - Agentic GTM platform (GTM-1 Omni) for autonomous multichannel outbound
 - [Lusha](https://www.lusha.com/) - Verified B2B contact data (300M+) with AI Flex Search and buying signals
 - [RocketReach](https://rocketreach.co/) - Contact intelligence: 700M+ profiles, verified emails/phones, AI lists
