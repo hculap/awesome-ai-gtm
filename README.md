@@ -65,6 +65,7 @@ The foundational stage where entrepreneurial vision meets market reality. This c
 - [Glimpse](https://meetglimpse.com/) - Trend discovery and predictive analytics tool
 - [Inteldo](https://inteldo.com/) - Business research across connected data and external sources using specialist agents
 - [MyMap.AI Market Analysis](https://www.mymap.ai/market-analysis-tool) - Generate comprehensive market analysis from single topic input
+- [Pulse](https://pulsecorp.co) - AI-moderated customer interviews for market research
 - [Quantilope](https://www.quantilope.com/) - AI-native consumer research platform with quinn AI co-pilot
 - [Sembly AI (Semblian)](https://www.sembly.ai/) - AI-driven market research and competitive intelligence
 - [SparkToro](https://sparktoro.com/) - Audience research tool with AI-powered insights and recommendations
