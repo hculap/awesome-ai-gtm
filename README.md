@@ -152,6 +152,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 - [Lavender](https://www.lavender.ai/) - AI email assistant for writing and optimizing cold emails
 - [lemlist](https://www.lemlist.com/) - Hyper-personalized outreach with dynamic images/videos
 - [Mailshake](https://mailshake.com/) - All-in-one outreach with SHAKEspeare AI writer
+- [Makelead](https://makelead.io/) - LinkedIn and X prospecting from post likers and commenters, with AI agents that find new prospects every day and an AI setter that replies with your booking link
 - [Outreach.ai](https://www.outreach.ai/) - Agentic AI revenue platform with Omni agent and Agent Studio
 - [Regie.ai](https://www.regie.ai/) - AI sales engagement with Auto-Pilot agents for email, phone, and LinkedIn
 - [Reply.io](https://reply.io/) - Multi-channel sequences with AI variables and AI SDR
