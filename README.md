@@ -135,6 +135,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 - [Derrick](https://derrick-app.com/) - B2B enrichment agents call over MCP, plus Google Sheets and REST API
 - [Exa Websets](https://exa.ai/websets) - Agentic web search turning a plain-English ICP into verified lists
 - [Landbase](https://www.landbase.com/) - Agentic GTM platform (GTM-1 Omni) for autonomous multichannel outbound
+- [looot](https://looot.ai/) - Remote MCP server and API: one key for 2,500+ data endpoints (emails, phones, companies, SERP)
 - [Lusha](https://www.lusha.com/) - Verified B2B contact data (300M+) with AI Flex Search and buying signals
 - [RocketReach](https://rocketreach.co/) - Contact intelligence: 700M+ profiles, verified emails/phones, AI lists
 - [Rox](https://rox.com/) - Agentic revenue platform with AI-agent swarms to prospect, qualify, manage deals
