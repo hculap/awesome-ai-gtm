@@ -129,6 +129,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 
 - [6sense](https://6sense.com/) - AI revenue platform predicting in-market accounts from intent signals
 - [Apollo.io](https://www.apollo.io/) - AI-powered B2B prospecting and sales intelligence platform
+- [BatchData](https://batchdata.io/) - Property and owner contact data for 169 million+ U.S. parcels via MCP server and API
 - [Breeze Prospecting Agent](https://breeze.ai/) - Full-lifecycle prospecting agent with pay-per-lead pricing
 - [Clay](https://clay.com/) - Automated prospecting with 200+ data providers and "claygents"
 - [Cognism](https://www.cognism.com/) - AI-powered B2B data and sales intelligence platform
