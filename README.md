@@ -109,6 +109,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI-powered creative tools for image generation and editing
 - [Canva AI](https://www.canva.com/) - Design platform with Magic Write and image generators
 - [Google Veo](https://gemini.google.com/) - Advanced text-to-video with native audio generation (latest version)
+- [HoneyVid](https://honeyvid.ai/) - Put a person, pet or character from a photo into trending AI videos, or generate with Kling and Veo
 - [InVideo AI](https://invideo.io/ai/) - Complete video creation from text prompts
 - [Lumen5](https://lumen5.com/) - Transform blog posts into engaging social videos
 - [Midjourney](https://www.midjourney.com/) - Advanced AI image generation with enhanced quality and control (latest version)
