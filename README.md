@@ -116,6 +116,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 - [Synthesia](https://www.synthesia.io/) - Professional AI avatar videos in 140+ languages
 - [videos.social](https://videos.social/) - Turn blogs, PDFs, and prompts into editable faceless videos
 - [Vyond](https://www.vyond.com/) - AI animated video creation for business (Vyond Go)
+- [Wavegrain](https://wavegrain.com/) - Makes TikTok slideshows and Instagram carousels from your brand and photos, then schedules posts
 
 ## 🤝 Conversion Stage - Sales & Outreach
 
