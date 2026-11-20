@@ -192,6 +192,7 @@ The revenue optimization and customer lifecycle management stage. This final pha
 - [Chatbase](https://www.chatbase.co/) - AI support agents with real-time business data integration
 - [ChatBot.com](https://www.chatbot.com/) - AI chatbot with drag-and-drop Visual Builder
 - [Decagon](https://decagon.ai/) - AI concierge deploying autonomous support agents across chat, email, voice
+-  [FeedLog](https://feedlog.ai/) - Open-source AI customer support platform that answers questions from your knowledge base and turns feature requests from chats into product feedback.
 - [Fin.ai](https://fin.ai/) - AI customer service agent (formerly Intercom) resolving ~76% across chat, email, voice
 - [Instant Reply](https://www.instantreply.co/) - AI replies for Instagram, WhatsApp, and Messenger with human review and CRM handoff
 - [Lorikeet](https://www.lorikeetcx.ai/) - AI concierge resolving complex, multi-step tickets for regulated industries
