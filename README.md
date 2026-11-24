@@ -273,6 +273,7 @@ The connective tissue that transforms individual AI agents into a unified, auton
 - [Activepieces](https://www.activepieces.com/) - Open-source automation platform with AI agents and MCP support
 - [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and AI-agent skills for cross-channel social content planning, scheduling, and publishing
 - [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes and self-hosting
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - MCP server for live-music venue discovery, booking contacts, and tour routing
 - [NotFair](https://notfair.co/) - AI agents audit Google, Meta, and X Ads with approval-gated account changes
 - [Pipedream](https://pipedream.com/) - Developer-first integration platform with code steps and AI workflow building
 - [Relay.app](https://www.relay.app/) - AI automation with human-in-the-loop approval steps built in
