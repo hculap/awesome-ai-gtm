@@ -153,6 +153,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 - [lemlist](https://www.lemlist.com/) - Hyper-personalized outreach with dynamic images/videos
 - [Mailshake](https://mailshake.com/) - All-in-one outreach with SHAKEspeare AI writer
 - [Outreach.ai](https://www.outreach.ai/) - Agentic AI revenue platform with Omni agent and Agent Studio
+- [Poptin MCP](https://www.poptin.com/mcp/) - Draft emails for opted-in subscribers and build audience segments with AI.
 - [Regie.ai](https://www.regie.ai/) - AI sales engagement with Auto-Pilot agents for email, phone, and LinkedIn
 - [Reply.io](https://reply.io/) - Multi-channel sequences with AI variables and AI SDR
 - [Salesforge](https://www.salesforge.ai/) - Cold email and LinkedIn outreach via Agent Frank, an autonomous AI SDR
