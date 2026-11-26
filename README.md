@@ -90,6 +90,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 
 - [AIOSEO](https://aioseo.com/) - WordPress SEO plugin with AI Writing Assistant
 - [Brandwell](https://brandwell.ai/) - AI-powered brand voice and content optimization platform
+- [CiteReady](https://cite.shipbastion.com/) - Audits /llms.txt, 10 AI search crawlers, and JSON-LD entity graphs for ChatGPT and Perplexity
 - [Frase.io](https://frase.io/) - AI-powered content workstation with SERP analysis and optimization
 - [Notion AI](https://www.notion.so/product/ai) - AI-powered workspace with content generation and organization
 - [Perplexity Pages](https://www.perplexity.ai/pages) - AI-powered content creation and publishing platform
