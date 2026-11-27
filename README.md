@@ -195,6 +195,7 @@ The revenue optimization and customer lifecycle management stage. This final pha
 - [Fin.ai](https://fin.ai/) - AI customer service agent (formerly Intercom) resolving ~76% across chat, email, voice
 - [Instant Reply](https://www.instantreply.co/) - AI replies for Instagram, WhatsApp, and Messenger with human review and CRM handoff
 - [Lorikeet](https://www.lorikeetcx.ai/) - AI concierge resolving complex, multi-step tickets for regulated industries
+- [Magistry](https://www.magistry.io/) - Agents that answer customer service on the store's own mailbox with the order in view (returns, exchanges, refunds), alongside ads, feeds and catalog, with approvals and undo
 - [Maven AGI](https://www.mavenagi.com/) - Enterprise AI agents automating support across chat, email, and voice
 - [Parloa](https://www.parloa.com/) - Agentic AI automating contact-center conversations across voice and digital
 - [Salesforce Agentforce](https://www.salesforce.com/agentforce/) - CRM-native agentic AI service agents, pay-per-resolution
