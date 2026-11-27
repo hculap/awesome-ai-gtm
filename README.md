@@ -275,6 +275,7 @@ The connective tissue that transforms individual AI agents into a unified, auton
 - [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes and self-hosting
 - [NotFair](https://notfair.co/) - AI agents audit Google, Meta, and X Ads with approval-gated account changes
 - [Pipedream](https://pipedream.com/) - Developer-first integration platform with code steps and AI workflow building
+- [Qonvert Marketing AI](https://qonvert.ai/services/google-ads) - Reviews Google Ads search terms and prepares campaign changes for human approval.
 - [Relay.app](https://www.relay.app/) - AI automation with human-in-the-loop approval steps built in
 - [Tray.ai](https://tray.ai/) - Enterprise integration platform with an agent builder on top
 - [Workato](https://www.workato.com/) - Enterprise automation and iPaaS with AI-driven agent workflows
