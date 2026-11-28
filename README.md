@@ -115,6 +115,7 @@ The engine of organic growth and brand authority establishment. This stage repre
 - [Runway](https://runwayml.com/) - AI video generation and editing platform with advanced capabilities (latest version)
 - [Synthesia](https://www.synthesia.io/) - Professional AI avatar videos in 140+ languages
 - [videos.social](https://videos.social/) - Turn blogs, PDFs, and prompts into editable faceless videos
+- [Tweenery](https://tweenery.com/) - AI agent that turns an idea or a post you like into Instagram carousels and TikTok slideshows
 - [Vyond](https://www.vyond.com/) - AI animated video creation for business (Vyond Go)
 
 ## 🤝 Conversion Stage - Sales & Outreach
